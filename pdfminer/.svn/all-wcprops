@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/3/trunk/pdfminer
+END
+layout.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/pdfminer/layout.py
+END
+glyphlist.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pdfminer/glyphlist.py
+END
+cmapdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/pdfminer/cmapdb.py
+END
+pdfparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pdfminer/pdfparser.py
+END
+rijndael.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pdfminer/rijndael.py
+END
+pdfdevice.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pdfminer/pdfdevice.py
+END
+pdfinterp.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pdfminer/pdfinterp.py
+END
+latin_enc.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pdfminer/latin_enc.py
+END
+encodingdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/pdfminer/encodingdb.py
+END
+fontmetrics.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/pdfminer/fontmetrics.py
+END
+pdftypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pdfminer/pdftypes.py
+END
+psparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pdfminer/psparser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pdfminer/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/pdfminer/utils.py
+END
+pdffont.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pdfminer/pdffont.py
+END
+arcfour.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pdfminer/arcfour.py
+END
+ascii85.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/pdfminer/ascii85.py
+END
+runlength.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/pdfminer/runlength.py
+END
+converter.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/pdfminer/converter.py
+END
+pdfcolor.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/pdfminer/pdfcolor.py
+END
+lzw.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/pdfminer/lzw.py
+END

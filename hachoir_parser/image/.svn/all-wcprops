@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/hachoir_parser/image
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/hachoir_parser/image/common.py
+END
+tiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/hachoir_parser/image/tiff.py
+END
+wmf.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_parser/image/wmf.py
+END
+pcx.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/image/pcx.py
+END
+exif.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/hachoir_parser/image/exif.py
+END
+iptc.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/hachoir_parser/image/iptc.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/hachoir_parser/image/__init__.py
+END
+gif.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_parser/image/gif.py
+END
+ico.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/image/ico.py
+END
+tga.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/image/tga.py
+END
+bmp.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/image/bmp.py
+END
+xcf.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/image/xcf.py
+END
+photoshop_metadata.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/hachoir_parser/image/photoshop_metadata.py
+END
+png.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_parser/image/png.py
+END
+jpeg.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/hachoir_parser/image/jpeg.py
+END
+psd.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/image/psd.py
+END

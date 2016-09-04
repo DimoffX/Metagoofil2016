@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7/trunk/hachoir_parser/misc
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/common.py
+END
+file_3ds.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/file_3ds.py
+END
+msoffice.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/msoffice.py
+END
+word_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/hachoir_parser/misc/word_2.py
+END
+gnome_keyring.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/gnome_keyring.py
+END
+ttf.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/ttf.py
+END
+bplist.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/bplist.py
+END
+torrent.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/torrent.py
+END
+ole2_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7/trunk/hachoir_parser/misc/ole2_util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/__init__.py
+END
+word_doc.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/word_doc.py
+END
+ole2.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/ole2.py
+END
+mstask.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7/trunk/hachoir_parser/misc/mstask.py
+END
+pifv.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/pifv.py
+END
+chm.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/chm.py
+END
+msoffice_summary.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/msoffice_summary.py
+END
+pcf.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/pcf.py
+END
+pdf.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/pdf.py
+END
+dsstore.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7/trunk/hachoir_parser/misc/dsstore.py
+END
+hlp.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/hlp.py
+END
+file_3do.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/hachoir_parser/misc/file_3do.py
+END
+lnk.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/hachoir_parser/misc/lnk.py
+END

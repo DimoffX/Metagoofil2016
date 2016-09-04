@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/hachoir_parser/game
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/hachoir_parser/game/__init__.py
+END
+laf.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_parser/game/laf.py
+END
+zsnes.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/hachoir_parser/game/zsnes.py
+END
+spider_man_video.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/hachoir_parser/game/spider_man_video.py
+END
+blp.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6/trunk/hachoir_parser/game/blp.py
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/12/trunk
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/2/trunk/COPYING
+END
+myparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/4/trunk/myparser.py
+END
+unzip.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/2/trunk/unzip.py
+END
+htmlExport.py
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10/trunk/htmlExport.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/3/trunk/README
+END
+metagoofil.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/metagoofil.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/parser.py
+END
+downloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/3/trunk/downloader.py
+END
+LICENSES
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/3/trunk/LICENSES
+END
+processor.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/3/trunk/processor.py
+END

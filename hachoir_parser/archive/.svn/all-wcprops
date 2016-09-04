@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/5/trunk/hachoir_parser/archive
+END
+gzip_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/hachoir_parser/archive/gzip_parser.py
+END
+cab.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/hachoir_parser/archive/cab.py
+END
+tar.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/hachoir_parser/archive/tar.py
+END
+ace.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/hachoir_parser/archive/ace.py
+END
+mozilla_ar.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5/trunk/hachoir_parser/archive/mozilla_ar.py
+END
+rpm.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/hachoir_parser/archive/rpm.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/hachoir_parser/archive/__init__.py
+END
+zlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5/trunk/hachoir_parser/archive/zlib.py
+END
+bzip2_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/hachoir_parser/archive/bzip2_parser.py
+END
+ar.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/hachoir_parser/archive/ar.py
+END
+zip.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/hachoir_parser/archive/zip.py
+END
+sevenzip.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/hachoir_parser/archive/sevenzip.py
+END
+lzx.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5/trunk/hachoir_parser/archive/lzx.py
+END
+mar.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/hachoir_parser/archive/mar.py
+END
+rar.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/hachoir_parser/archive/rar.py
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/hachoir_core/field
+END
+sub_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/hachoir_core/field/sub_file.py
+END
+seekable_field_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/hachoir_core/field/seekable_field_set.py
+END
+generic_field_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/hachoir_core/field/generic_field_set.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/hachoir_core/field/parser.py
+END
+character.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/hachoir_core/field/character.py
+END
+link.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_core/field/link.py
+END
+integer.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/hachoir_core/field/integer.py
+END
+field_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/hachoir_core/field/field_set.py
+END
+basic_field_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/hachoir_core/field/basic_field_set.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/hachoir_core/field/__init__.py
+END
+vector.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/hachoir_core/field/vector.py
+END
+timestamp.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/hachoir_core/field/timestamp.py
+END
+enum.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/hachoir_core/field/enum.py
+END
+fake_array.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/hachoir_core/field/fake_array.py
+END
+static_field_set.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/hachoir_core/field/static_field_set.py
+END
+float.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_core/field/float.py
+END
+byte_field.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/hachoir_core/field/byte_field.py
+END
+padding.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/hachoir_core/field/padding.py
+END
+string_field.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/hachoir_core/field/string_field.py
+END
+helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/hachoir_core/field/helper.py
+END
+bit_field.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/hachoir_core/field/bit_field.py
+END
+field.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_core/field/field.py
+END

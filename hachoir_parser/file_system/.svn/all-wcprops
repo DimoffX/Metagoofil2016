@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/hachoir_parser/file_system
+END
+iso9660.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/hachoir_parser/file_system/iso9660.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/hachoir_parser/file_system/__init__.py
+END
+mbr.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/hachoir_parser/file_system/mbr.py
+END
+reiser_fs.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/hachoir_parser/file_system/reiser_fs.py
+END
+ext2.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/hachoir_parser/file_system/ext2.py
+END
+linux_swap.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/hachoir_parser/file_system/linux_swap.py
+END
+fat.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/hachoir_parser/file_system/fat.py
+END
+ntfs.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/hachoir_parser/file_system/ntfs.py
+END

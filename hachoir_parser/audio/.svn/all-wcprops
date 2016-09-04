@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3/trunk/hachoir_parser/audio
+END
+mpeg_audio.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/hachoir_parser/audio/mpeg_audio.py
+END
+itunesdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/hachoir_parser/audio/itunesdb.py
+END
+id3.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_parser/audio/id3.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/__init__.py
+END
+mod.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/hachoir_parser/audio/mod.py
+END
+s3m.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/s3m.py
+END
+midi.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/hachoir_parser/audio/midi.py
+END
+real_audio.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/real_audio.py
+END
+xm.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/xm.py
+END
+au.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/au.py
+END
+aiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/aiff.py
+END
+flac.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/flac.py
+END
+modplug.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/hachoir_parser/audio/modplug.py
+END
